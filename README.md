@@ -1,2 +1,0 @@
-# ReactApp
-Example React App
