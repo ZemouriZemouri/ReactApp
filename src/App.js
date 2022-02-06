@@ -10,7 +10,7 @@ function App() {
 		/>
 		
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          == Demo React App ==
         </p>
         <a
           className="App-link"
