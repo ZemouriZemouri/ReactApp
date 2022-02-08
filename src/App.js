@@ -10,7 +10,7 @@ function App() {
 		/>
 		
         <p>
-          ==== Demo React App ====
+          === Demo React App ===
         </p>
         <a
           className="App-link"
