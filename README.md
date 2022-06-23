@@ -39,6 +39,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Troubleshooting with `npm add react-scripts --include=dev`
+
+If "npm test" or "npm start" doesn't work, because of missing "react-scripts", then use this command for recovering. 
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
