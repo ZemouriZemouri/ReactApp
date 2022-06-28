@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mijn Movir
+          My React App
         </a>
       </header>
     </div>
