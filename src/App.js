@@ -7,11 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-		<img src="../logo192.png" />
-		
         <p>
-          ===| Demo React App |===
+          | QX Day Demo |
         </p>
+		<img src="../sogeti-qx-day-2022.png" />
         <a
           className="App-link"
           href="https://nodejs.org"
