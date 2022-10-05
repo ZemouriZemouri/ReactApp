@@ -10,7 +10,7 @@ function App() {
 		<img src="../logo192.png" />
 		
         <p>
-          === Demo React App ===
+          ===| Demo React App |===
         </p>
         <a
           className="App-link"
