@@ -10,14 +10,14 @@ function App() {
         <p>
           | QX Day Demo |
         </p>
-		<img src="../sogeti-qx-day-2022.png" />
+		    <img src="../sogeti-qx-day-2022.png" />
         <a
           className="App-link"
           href="https://https://www.sogeti.nl/events/QXDay2022"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to QX Day
+          Go to QX Day!
         </a>
       </header>
     </div>
