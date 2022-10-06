@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to QX Day
+          Go to QX Day!
         </a>
       </header>
     </div>
